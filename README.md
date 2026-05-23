@@ -6,9 +6,6 @@
 
 
 
-# Proyecto Final: Una Anomalía, Defendida - IELE756
-
-
 ## 1. Comunas asignadas
 
 - San Bernardo
