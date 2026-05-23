@@ -6,6 +6,9 @@
 
 
 
+# Proyecto Final: Una Anomalía, Defendida - IELE756
+
+
 ## 1. Comunas asignadas
 
 - San Bernardo
@@ -23,7 +26,7 @@ La verificación mostró que esta diferencia se explica por una fuerte sobredisp
 
 La figura principal del análisis se genera en el notebook:
 
-`notebooks/final_anomaly.ipynb`
+`notebooks/notebook_final_anomaly.ipynb`
 
 La imagen utilizada para defender la anomalía se encuentra en:
 
@@ -37,7 +40,7 @@ Esta figura muestra que el modelo Poisson entrega una relación aparentemente si
 
 La figura principal y las verificaciones matemáticas de este hallazgo se generan directamente desde el notebook:
 
-`notebooks/final_anomaly.ipynb`
+`notebooks/notebook_final_anomaly.ipynb`
 
 El tiempo estimado de ejecución es menor a **5 segundos**, ya que el notebook consume directamente una tabla analítica precalculada en la Tarea 3 y no vuelve a ejecutar todo el pipeline desde cero.
 
